@@ -23,6 +23,8 @@ How We Work
 Our website is designed to let you browse through our offerings, place orders for your favorite treats, and stay updated on new creations. We're always experimenting with new flavors, and we can't wait to share our upcoming seasonal specials with you!
 
 Visit us in Addis Ababa or order online, and experience the love we bake into every item.
+![bakery-website-template](https://github.com/user-attachments/assets/0a62da81-c7d0-4124-b7e6-33040f5de89e)
+
 
 Contact Us
 Mikals Bakery
