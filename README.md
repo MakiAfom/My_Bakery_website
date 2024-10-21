@@ -1,7 +1,7 @@
-
+ Mikals Bakery - "We Bake Every Item From The Core Of Our Hearts"
                                                              
                                                              
-                                                             Mikals Bakery - "We Bake Every Item From The Core Of Our Hearts"
+                                                            
 Welcome to Mikals Bakery, where baking is not just a skill—it's our true passion. Based in the heart of Addis Ababa, we are dedicated to crafting baked goods that enhance the taste of life with every bite. From traditional recipes to innovative treats, we put love and creativity into every loaf, pastry, and cake that comes out of our ovens.
 
 About Us
