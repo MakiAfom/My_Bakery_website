@@ -24,6 +24,11 @@ Our website is designed to let you browse through our offerings, place orders fo
 
 Visit us in Addis Ababa or order online, and experience the love we bake into every item.
 ![bakery-website-template](https://github.com/user-attachments/assets/0a62da81-c7d0-4124-b7e6-33040f5de89e)
+![Screenshot (513)](https://github.com/user-attachments/assets/46eb0b11-1e74-44d9-83bb-79f464413118)
+![Screenshot (518)](https://github.com/user-attachments/assets/eb233a80-9fac-4e53-8058-06eb07167de4)
+![Screenshot (516)](https://github.com/user-attachments/assets/ffa33d4e-17ba-483f-b08c-964056300ccc)
+![Screenshot (517)](https://github.com/user-attachments/assets/fe6a8953-a6c8-43da-895c-fef3410110c7)
+
 
 
 Contact Us
